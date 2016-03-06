@@ -1,0 +1,11 @@
+*
+!/shell/
+!/shell/**/
+!/apue3/
+!/apue3/**/
+!/unpv13e/
+!/unpv13e/**/
+!*.*
+!configure
+!README
+!Makefile
