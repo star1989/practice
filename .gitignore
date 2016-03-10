@@ -1,4 +1,5 @@
 *
+!/go/
 !/shell/
 !/shell/**/
 !/apue3/
@@ -9,3 +10,4 @@
 !configure
 !README
 !Makefile
+.DS_Store
